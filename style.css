@@ -1,0 +1,46 @@
+.top{
+  line-height: 1.5em;
+  background-color: red;
+  height: 50px;
+  width: 450px;
+  margin: AUTO;
+  text-align: center;
+  border-radius: 15px 15px 0px 0px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 50px;
+  color: white
+}
+
+.nameIs{
+  line-height: 1.75em;
+  background-color: red;
+  height: 50px;
+  width: 450px;
+  margin: AUTO;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white
+}
+
+.name{
+  text-align: center;
+  width: 450px;
+  height: 100px;
+  margin: AUTO;
+  line-height: 1.5em;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: white;
+  font-size: 60px;
+}
+
+.bottom{
+  background-color: red;
+  width: 450px;
+  height: 35px;
+  text-align: center;
+  margin: auto;
+  border-radius: 0px 0px 15px 15px;
+  box-shadow: 0px 1px 3px #000;
+}
+
+
